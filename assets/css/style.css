@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+img {
+  width: 200px;
+  cursor: pointer;
+}
+
+.borde-rojo {
+  border: 2px solid red;
+}
+
+.stickers img {
+  width: 100px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.stickers input {
+  width: 60px;
+  text-align: center;
+}
+
+.seccion {
+  margin-bottom: 40px;
+}
